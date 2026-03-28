@@ -1,0 +1,49 @@
+C:\Development\Phòng Kế Hoạch\Phòng Kế Hoạch\bin\Debug\Phòng Kế Hoạch.exe.config
+C:\Development\Phòng Kế Hoạch\Phòng Kế Hoạch\bin\Debug\Phòng Kế Hoạch.exe
+C:\Development\Phòng Kế Hoạch\Phòng Kế Hoạch\bin\Debug\Phòng Kế Hoạch.pdb
+C:\Development\Phòng Kế Hoạch\Phòng Kế Hoạch\bin\Debug\Guna.UI2.dll
+C:\Development\Phòng Kế Hoạch\Phòng Kế Hoạch\obj\Debug\Phòng Kế Hoạch.csproj.AssemblyReference.cache
+C:\Development\Phòng Kế Hoạch\Phòng Kế Hoạch\obj\Debug\Phòng_Kế_Hoạch.Properties.Resources.resources
+C:\Development\Phòng Kế Hoạch\Phòng Kế Hoạch\obj\Debug\Phòng Kế Hoạch.csproj.GenerateResource.cache
+C:\Development\Phòng Kế Hoạch\Phòng Kế Hoạch\obj\Debug\Phòng Kế Hoạch.csproj.CoreCompileInputs.cache
+C:\Development\Phòng Kế Hoạch\Phòng Kế Hoạch\obj\Debug\Ph_ng K_.F22B4BF0.Up2Date
+C:\Development\Phòng Kế Hoạch\Phòng Kế Hoạch\obj\Debug\Phòng Kế Hoạch.exe
+C:\Development\Phòng Kế Hoạch\Phòng Kế Hoạch\obj\Debug\Phòng Kế Hoạch.pdb
+C:\Development\Phòng Kế Hoạch\Phòng Kế Hoạch\obj\Debug\Phòng Kế Hoạch.exe.config
+C:\Development\Phòng Kế Hoạch\Phòng Kế Hoạch\bin\Debug\Bunifu.Licensing.dll
+C:\Development\Phòng Kế Hoạch\Phòng Kế Hoạch\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Development\Phòng Kế Hoạch\Phòng Kế Hoạch\bin\Debug\Bunifu.Utils.dll
+C:\Development\Phòng Kế Hoạch\Phòng Kế Hoạch\bin\Debug\Newtonsoft.Json.dll
+C:\Development\Phòng Kế Hoạch\Phòng Kế Hoạch\bin\Debug\System.CodeDom.dll
+C:\Development\Phòng Kế Hoạch\Phòng Kế Hoạch\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Development\Phòng Kế Hoạch\Phòng Kế Hoạch\bin\Debug\Newtonsoft.Json.xml
+C:\Development\Phòng Kế Hoạch\Phòng Kế Hoạch\bin\Debug\System.CodeDom.xml
+C:\Development\Phòng Kế Hoạch\Phòng Kế Hoạch\obj\Debug\Phòng_Kế_Hoạch.FormPKH.resources
+C:\Development\Phòng Kế Hoạch\Phòng Kế Hoạch\obj\Debug\Phòng_Kế_Hoạch.UCPhanCongNhanVien.resources
+C:\Development\Phòng Kế Hoạch\Phòng Kế Hoạch\obj\Debug\Phòng_Kế_Hoạch.UCThietLapMau.resources
+C:\Development\Phòng Kế Hoạch\Phòng Kế Hoạch\obj\Debug\Phòng_Kế_Hoạch.UCTiepNhanDonHang.resources
+C:\Development\Phòng Kế Hoạch\Phòng Kế Hoạch\obj\Debug\Phòng_Kế_Hoạch.FormThemNenMau.resources
+D:\Lap trinh\c#\Phòng Kế Hoạch\Phòng Kế Hoạch\bin\Debug\Phòng Kế Hoạch.exe.config
+D:\Lap trinh\c#\Phòng Kế Hoạch\Phòng Kế Hoạch\bin\Debug\Phòng Kế Hoạch.exe
+D:\Lap trinh\c#\Phòng Kế Hoạch\Phòng Kế Hoạch\bin\Debug\Phòng Kế Hoạch.pdb
+D:\Lap trinh\c#\Phòng Kế Hoạch\Phòng Kế Hoạch\bin\Debug\Bunifu.Licensing.dll
+D:\Lap trinh\c#\Phòng Kế Hoạch\Phòng Kế Hoạch\bin\Debug\Bunifu.UI.WinForms.dll
+D:\Lap trinh\c#\Phòng Kế Hoạch\Phòng Kế Hoạch\bin\Debug\Bunifu.Utils.dll
+D:\Lap trinh\c#\Phòng Kế Hoạch\Phòng Kế Hoạch\bin\Debug\Guna.UI2.dll
+D:\Lap trinh\c#\Phòng Kế Hoạch\Phòng Kế Hoạch\bin\Debug\Newtonsoft.Json.dll
+D:\Lap trinh\c#\Phòng Kế Hoạch\Phòng Kế Hoạch\bin\Debug\System.CodeDom.dll
+D:\Lap trinh\c#\Phòng Kế Hoạch\Phòng Kế Hoạch\bin\Debug\Bunifu.UI.WinForms.xml
+D:\Lap trinh\c#\Phòng Kế Hoạch\Phòng Kế Hoạch\bin\Debug\Newtonsoft.Json.xml
+D:\Lap trinh\c#\Phòng Kế Hoạch\Phòng Kế Hoạch\bin\Debug\System.CodeDom.xml
+D:\Lap trinh\c#\Phòng Kế Hoạch\Phòng Kế Hoạch\obj\Debug\Phòng Kế Hoạch.csproj.AssemblyReference.cache
+D:\Lap trinh\c#\Phòng Kế Hoạch\Phòng Kế Hoạch\obj\Debug\Phòng_Kế_Hoạch.FormPKH.resources
+D:\Lap trinh\c#\Phòng Kế Hoạch\Phòng Kế Hoạch\obj\Debug\Phòng_Kế_Hoạch.FormThemNenMau.resources
+D:\Lap trinh\c#\Phòng Kế Hoạch\Phòng Kế Hoạch\obj\Debug\Phòng_Kế_Hoạch.Properties.Resources.resources
+D:\Lap trinh\c#\Phòng Kế Hoạch\Phòng Kế Hoạch\obj\Debug\Phòng_Kế_Hoạch.UCPhanCongNhanVien.resources
+D:\Lap trinh\c#\Phòng Kế Hoạch\Phòng Kế Hoạch\obj\Debug\Phòng_Kế_Hoạch.UCThietLapMau.resources
+D:\Lap trinh\c#\Phòng Kế Hoạch\Phòng Kế Hoạch\obj\Debug\Phòng_Kế_Hoạch.UCTiepNhanDonHang.resources
+D:\Lap trinh\c#\Phòng Kế Hoạch\Phòng Kế Hoạch\obj\Debug\Phòng Kế Hoạch.csproj.GenerateResource.cache
+D:\Lap trinh\c#\Phòng Kế Hoạch\Phòng Kế Hoạch\obj\Debug\Phòng Kế Hoạch.csproj.CoreCompileInputs.cache
+D:\Lap trinh\c#\Phòng Kế Hoạch\Phòng Kế Hoạch\obj\Debug\Ph_ng K_.F22B4BF0.Up2Date
+D:\Lap trinh\c#\Phòng Kế Hoạch\Phòng Kế Hoạch\obj\Debug\Phòng Kế Hoạch.exe
+D:\Lap trinh\c#\Phòng Kế Hoạch\Phòng Kế Hoạch\obj\Debug\Phòng Kế Hoạch.pdb
